@@ -12,6 +12,7 @@ Requirements:
 ## View
 ![Example Case](side.jpg)
 ![Example Case](cross-section2.jpg)
+![Example Case](pump-photo.jpg)
 ![Example Case](pump-connected.jpg)
 ![Example Case](pump-balloon_photo.jpg)
 
