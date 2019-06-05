@@ -12,6 +12,6 @@ Requirements:
 ## View
 ![Example Case](cross-section1.jpg)
 ![Example Case](cross-section2.jpg)
-![Example Case](photo_2019-05-28_19-33-10.jpg)
+![Example Case](pump-connected.jpg)
 ![Example Case](pump-balloon_photo.jpg)
 
