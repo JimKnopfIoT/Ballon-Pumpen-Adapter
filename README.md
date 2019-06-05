@@ -10,7 +10,7 @@ Requirements:
 * Filament of your choice
 
 ## View
-![Example Case](cross-section1.jpg)
+![Example Case](side.jpg)
 ![Example Case](cross-section2.jpg)
 ![Example Case](pump-connected.jpg)
 ![Example Case](pump-balloon_photo.jpg)
